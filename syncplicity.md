@@ -20,7 +20,7 @@ For shared folders, the end users can’t tell if the folder is synced locally o
 Now for shared folders there’s an obvious person icon indicating shared status of the folder but without obscuring the sync status of the folder.
 
 **Large and list icons - after**
-![large icons](/assets/Lg-icons-view–SHARED.png#bordered)
+![large icons](/assets/Lg-icons-view-SHARED.png#bordered)
 ![list view](/assets/List-view–SHARED.png#bordered)
 
 My role in this improvement was identifying the issue, designing a solution and testing the proposed solution with users prior to handing off final production assets to engineering. I worked closely with the Product Manager for Syncplicity to demo and document the end-to-end changes, and create tasks for engineering. 
