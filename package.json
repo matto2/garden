@@ -1,30 +1,27 @@
 {
-  "name": "eleventy-garden",
+  "name": "matt-samples",
   "version": "1.0.0",
-  "description": "A starter site for building a mind garden in eleventy.",
+  "description": "more up-to-date stuff.",
   "scripts": {
     "start": "eleventy --serve",
     "compile": "eleventy"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/binyamin/eleventy-garden.git"
+    "url": "git+https://github.com/matto2/garden.git"
   },
   "keywords": [],
-  "author": "Binyamin Aron Green (https://binyam.in/)",
+  "author": "Matt O'Leary",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/binyamin/eleventy-garden/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/binyamin/eleventy-garden#readme",
+  "homepage": "",
   "devDependencies": {
     "@11ty/eleventy": "^0.11.1",
     "markdown-it": "^12.0.4",
     "markdown-it-attrs": "^3.0.3",
     "markdown-it-footnote": "^3.0.2",
     "title-case": "^3.0.3"
-  },
-  // "dependencies": {
-  //   "feather-icons": "^4.28.0"
-  // }
+  }
 }
