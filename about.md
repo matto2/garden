@@ -1,8 +1,8 @@
 ---
 layout: default
-title: About Me
+title: About
 ---
-# About Me
+# About
 
 I'm a Product Design generalist working in the enterpreise SAAS space. I like to make things as simple as possible but also realize enterprise products are complex! The challenge is to have enough exposition to create confidence and understanding. (Presenting complexity without implying, and soon demonstrating the value, is just noise.)
 
