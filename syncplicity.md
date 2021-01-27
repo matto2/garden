@@ -5,7 +5,7 @@ layout: default
 
 The latest release of Syncplicity desktop (Dec 2020) has several features originally identified by me and developed in collaboration with product and engineering. The features are related only to usability and understanding rather than the typical new technical features.
 
-#### Add new visual indication to show additional states of folders 
+#### Add visual indication to show additional states of folders 
 
 Two Syncplicity features that are very useful to end-users are the ability to Sync folders on your computer with live copies in the cloud, and also the ability to easily share folders with business colleagues and partners.  
 
