@@ -3,7 +3,7 @@ layout: default
 ---
 # Open Banking demo site
 
-The Open Banking demo site was kind of like a side project within the greater Axway org. It was created by a small, collaborative, and cross-functional team led by Eyal Sivan (Mr Open Banking) and I was tapped to be the designer. The site features real APIs but with a made-up, representative bank. Several of the banks that have seen the site demo (the real deployed site with API manager as back-end) so far have already signed up for an Open Banking POC using the front and back end that we built but with their own bank name and branding.
+The Open Banking demo site was kind of like a side project within the greater Axway org. It was created by a small, collaborative, and cross-functional team led by Eyal Sivan (Mr Open Banking) and I was tapped to be the designer. The site features real APIs but with a made-up, representative bank. Several of the banks that have seen the site demo (the real deployed site with API manager as back-end) so far 5 out of the 5 orgs that have seen the demo have signed up for an Open Banking POC using the front and back end that we built (but they'll be adding their own bank name and branding).
 
 
 ![open banking demo site - home page](/assets/HOME-cropped.png#bordered)
