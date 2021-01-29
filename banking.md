@@ -8,6 +8,6 @@ The Open Banking demo site was kind of like a side project within the greater Ax
 
 ![open banking demo site - home page](/assets/HOME-cropped.png#bordered)
 
-Here's one of my [prototypes](https://xd.adobe.com/view/f563be56-c612-4848-8e16-34dfbe7d43cb-a030/) used to create the site. I worked with the dev team to translate these designs into a Joomla template.
+I worked closely with the dev team to translate these designs into a Joomla template.
 
 <h5 class="right"><a href="/syncplicity">Next<img class="bottom" src="/assets/arrow-right.svg"></a></h5>
