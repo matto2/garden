@@ -162,6 +162,10 @@ small {font-size: 0.8em;}
     border-radius: .2rem;
     box-shadow: 2px 2px 6px 0px rgba(0, 0, 0, 0.1);
   }
+
+  .grid > article:hover {
+    box-shadow: 0 0 12px -3px #d1d0d0;
+}
   
   .grid > article img {
     max-width: 100%;
