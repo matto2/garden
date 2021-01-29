@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-# Hi
-I'm Matt O'Leary. These are some recent work samples.
+# Welcome
+Thanks for visiting. I'm Matt O'Leary, Product Designer. Here are some recent work samples.
 
 <div class="container">
   <main class="grid">
@@ -30,6 +30,15 @@ I'm Matt O'Leary. These are some recent work samples.
         <a href="/syncplicity" class="btn btn-primary btn-block">View<img class="bottom" src="assets/arrow-right.svg"></a>
       </div>
     </article>
+      <!-- <a href="/banking">
+    <article>
+      <img src="assets/HOME-cropped.png" alt="open banking demo">
+      <div class="text">
+        <p>Open Banking demo site</p>
+        <a href="/banking" class="btn btn-primary btn-block">View<img class="bottom" src="assets/arrow-right.svg"></a>
+      </div>  
+    </article>
+    </a> -->
   </main>
 </div>
 
