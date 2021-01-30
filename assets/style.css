@@ -1,5 +1,5 @@
 :root {
-    --accent: rgb(0, 110, 255);
+    --accent: #e65806;
     --grey: #444;
 }
 
@@ -18,8 +18,11 @@ body {
     min-height: 100vh;
 
     margin: 0 24px;
-    background-color: #fffdc5;
+    background-color: #f3e3e0;
     color: #555555;
+
+    /* background: linear-gradient(0deg, #e3ffe7 0%, #d9e7ff 100%); */
+
 }
 
 @media only screen and (max-width: 468px) {
@@ -60,10 +63,12 @@ main {
 
 a[href] {
     color: var(--accent);
+    text-decoration: none;
+    }
 }
 
 a[href]:hover {
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 a[href]:focus {
@@ -87,6 +92,7 @@ h1, h2, h3, h4, h5 {
 h1 {
     font-size: 3.052em;
     font-weight: 800;
+    color: #e65806;
 }
 
 h2 {font-size: 2.441em;}
@@ -198,3 +204,7 @@ small {font-size: 0.8em;}
  .right {
      text-align:center;
  }
+
+ a[href]:hover {
+    text-decoration: underline;
+}
