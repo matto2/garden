@@ -209,3 +209,8 @@ small {font-size: 0.8em;}
  a[href]:hover {
     text-decoration: underline;
 }
+
+.page-header nav a:not(:hover):not(:focus) {
+    color: var(--accent);
+    text-decoration: none;
+}
