@@ -1,5 +1,5 @@
 :root {
-    --accent: #e65806;
+    --accent: #6104f5;
     --grey: #444;
 }
 
@@ -18,7 +18,7 @@ body {
     min-height: 100vh;
 
     margin: 0 24px;
-    background-color: #f5edec;
+    background-color: #edebfa;
     color: #555555;
 
     /* background: linear-gradient(0deg, #e3ffe7 0%, #d9e7ff 100%); */
@@ -199,7 +199,7 @@ small {font-size: 0.8em;}
 
  img.bottom {
     vertical-align: bottom;
-    fill: #e65806;
+    fill: #6104f5;
  }
 
  .right {
