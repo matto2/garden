@@ -1,5 +1,5 @@
 :root {
-    --accent: #6104f5;
+    --accent: #041cf5;
     --grey: #444;
 }
 
@@ -18,7 +18,7 @@ body {
     min-height: 100vh;
 
     margin: 0 24px;
-    background-color: #edebfa;
+    background-color: #f2f2f2;
     color: #555555;
 
     /* background: linear-gradient(0deg, #e3ffe7 0%, #d9e7ff 100%); */
